@@ -2,30 +2,12 @@
   "products": [
     {
       "id": "0",
-      "name1": "Elahly",
-      "name2": "Elesmaily",
+      "name1": "الودادالرياضي ",
+      "name2": "الترجي التونسي",
       "result": "1 - 1",
-      "image1": "https://i.imgur.com/idGAbv6.png",
-      "image2": "https://i.imgur.com/0Vbm27t.png",
-     "url1": "https://streamable.com/s/x638o/telub",
-      "url2": "https://streamable.com/s/8hsyy/etworv",	  
-      "url3": "https://streamable.com/s/8jj7j/qtmlqk",
-      "url4": "https://streamable.com/s/i0rl7/vlfpur",
-      "url5": "https://streamable.com/s/fmkdo/zzyfxm",
-      "url6": "https://streamable.com/s/htf6v/jptb",
-      "url7": "https://streamable.com/s/pq1ak/vfoh",
-      "url8": "https://streamable.com/s/8wxi6/yphowp",
-      "url9": "https://streamable.com/s/g5d0j/wlwbgf",
-      "url10": "https://streamable.com/s/u1kzf/akhvtc"
-    },
-    {
-      "id": "1",
-      "name1": "Pyramids",
-      "name2": "Elnegom",
-      "result": "2 - 0",
-      "image1": "https://i.imgur.com/QX3ckpx.png",
-      "image2": "https://i.imgur.com/s220EYN.png",
-     "url1": "https://streamable.com/s/x638o/telub",
+      "image1": "https://i.imgur.com/kxhJbnv.png",
+      "image2": "https://i.imgur.com/oytusZ2.png",
+      "url1": "https://streamable.com/s/z0jnc/jkuege",
       "url2": "https://streamable.com/s/8hsyy/etworv",	  
       "url3": "https://streamable.com/s/8jj7j/qtmlqk",
       "url4": "https://streamable.com/s/i0rl7/vlfpur",
@@ -36,6 +18,6 @@
       "url9": "https://streamable.com/s/g5d0j/wlwbgf",
       "url10": "https://streamable.com/s/u1kzf/akhvtc"
     }
-   
+  
   ]
 }
